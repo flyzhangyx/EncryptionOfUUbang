@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1612582163 source:c:\users\bescd\desktop\test\kaisaencryption\main.c
+	<stdio.h>
+	<string.h>
+	"md5.c"
+
+1612582267 c:\users\bescd\desktop\test\kaisaencryption\md5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1612582267 source:c:\users\bescd\desktop\test\kaisaencryption\md5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
